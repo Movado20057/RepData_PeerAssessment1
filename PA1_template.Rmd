@@ -2,7 +2,8 @@
 title: "Peer Assessment"
 author: "Seun Daniel"
 date: "Saturday, January 17, 2015"
-output: html_document
+html_document:
+    keep_md: true
 ---
 ##Peer Assignment 1
 ## Loading and preprocessing the data
